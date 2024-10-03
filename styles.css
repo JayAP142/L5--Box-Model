@@ -1,0 +1,15 @@
+.Box{
+    background-color: aqua;
+    height: 200px;
+    border: 2px solid chocolate;
+    border-radius: 50px;
+    text-align: center;
+    /* padding: 50px; */
+    /* padding-top: 123px; */
+    margin: auto;
+    text-decoration: underline;
+    /* margin-left: 100px; */
+}
+p{
+    margin: auto;
+}
