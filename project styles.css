@@ -1,0 +1,31 @@
+#impure{
+    color: blue;
+    text-align: center;
+    text-decoration: double underline;
+}
+div[class="dirt"]{
+    border: 3px solid chocolate;
+    background-color: aqua;
+    border-radius: 25%;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+.danger{
+    text-transform: uppercase;
+    text-shadow: 3px 4px 7px blueviolet;
+    color: red;
+}
+h2[class="danger"] + p{
+    font-size: larger;
+}
+ul > li{
+    font-size: large;
+    line-height: 1.5;
+}
+img{
+    float: inline-end;
+    margin: auto;
+}
+
+   
